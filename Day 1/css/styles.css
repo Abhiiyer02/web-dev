@@ -1,0 +1,52 @@
+body {
+    background-color: #C4DDFF;
+}
+
+hr {
+    border-style: dotted none none none;
+    size: 10px;
+    border-width: 4px;
+    color: rgb(186, 186, 186);
+    height: 0px;
+    width: 5%;
+}
+
+h1 {
+    color: royalblue;
+}
+
+h2 {
+    color: #7FB5FF;
+}
+
+h3 {
+    color: #7FB5FF;
+}
+
+h4 {
+    color: #7FB5FF;
+}
+
+p {
+    color: #256D85;
+}
+
+table {
+    color: #21094E;
+}
+
+li {
+    color: #21094E;
+}
+
+th {
+    color: purple
+}
+
+a {
+    color: #256D85;
+}
+
+a:hover {
+    color: violet;
+}

@@ -1,0 +1,39 @@
+        /********************************Tag selectors*************************/
+        
+        h1 {
+            color: burlywood;
+        }
+        /*img {
+            background-color: brown;
+        }
+        */
+        
+        img:hover {
+            background-color: aqua;
+        }
+        /********************************Class selectors*************************/
+        
+        .bacon {
+            background-color: wheat;
+            color: chartreuse;
+        }
+        
+        .brocolli {
+            background-color: dodgerblue;
+        }
+        
+        .circular {
+            border-radius: 100%;
+        }
+        /*both .brcolli and .circular act on teh same image */
+        /********************************ID selectors*************************/
+        
+        #baconssuck {
+            color: red
+        }
+        
+        #heading {
+            color: cadetblue;
+            /*This overrides the h1 selector above because this is more specific. Same thing is for class brown is overriden by red
+            */
+        }
